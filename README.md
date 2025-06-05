@@ -1,4 +1,4 @@
-## Olá, eu me chamo Juan Carmo. Seja bem-vindo!
+## Olá, eu me chamo Juan Carmo. Seja bem-vindo! 😊
 
 - 🔭 Estou cursando Ciencia da computaçao
 - 🌱 Aprendendo python
