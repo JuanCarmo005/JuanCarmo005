@@ -3,7 +3,9 @@
 Olá! Sou estudante de Ciência da Computação e utilizo este espaço para documentar minha evolução acadêmica e meus projetos práticos.
 
 🎓 **Foco Acadêmico:** Construindo uma base sólida em lógica de programação, algoritmos e estruturas de dados.
+
 🛠️ **Tecnologias Atuais:** Aprofundando no ecossistema Python e desenvolvendo laboratórios práticos em C e MySQL.
+
 🎯 **Objetivo:** Evoluir constantemente e criar soluções eficientes para problemas reais através do código.
 
 <p align="center">
