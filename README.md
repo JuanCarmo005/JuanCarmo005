@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.shion.dev/api?username=JuanCarmo005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JuanCarmo005&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
-### 🛠️ Tecnologias e Ferramentas
+🛠️ Tecnologias e Ferramentas
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
