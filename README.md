@@ -10,9 +10,8 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/streak-stats?username=JuanCarmo005&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanCarmo005&theme=tokyonight"/>
 </p>
-
 
 🛠️ Tecnologias e Ferramentas
 <p align="left">
