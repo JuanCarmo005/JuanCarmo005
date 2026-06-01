@@ -1,8 +1,10 @@
-## Olá, eu me chamo Juan Carmo. Seja bem-vindo! 😊
+## ✨ Juan Carmo — Ciência da Computação
 
-- 🎓 Estou cursando Ciência da Computação
-- 🌱 Aprendendo Python
-- ⚡ Estou sempre buscando aprender coisas novas
+Olá! Sou estudante de Ciência da Computação e utilizo este espaço para documentar minha evolução acadêmica e meus projetos práticos.
+
+🎓 **Foco Acadêmico:** Construindo uma base sólida em lógica de programação, algoritmos e estruturas de dados.
+🛠️ **Tecnologias Atuais:** Aprofundando no ecossistema Python e desenvolvendo laboratórios práticos em C e MySQL.
+🎯 **Objetivo:** Evoluir constantemente e criar soluções eficientes para problemas reais através do código.
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.shion.dev/api?username=JuanHCarmo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
