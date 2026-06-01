@@ -5,10 +5,9 @@
 - ⚡ Estou sempre buscando aprender coisas novas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanCarmo005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCarmo005&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=JuanCarmo005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JuanCarmo005&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
-
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
